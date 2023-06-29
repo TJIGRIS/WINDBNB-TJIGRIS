@@ -88,5 +88,5 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [your-website.com](https://{tjigris.github.io/porfolio/})
+- GitHub [@your-username](https://{github.com/TJIGRIS})
