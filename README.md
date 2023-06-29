@@ -38,24 +38,23 @@
 
 <!-- ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png) -->
 
-![screenshot]('./src/assets/page.png')
+![screenshot](./src/assets/page.png)
 
 - Where can I see your demo?
 
-La aplicacion web se puede ver en mi github y en la pagina devchallenges
+The web application can be seen in my github and on the devchallenges page.
 
 - What was your experience?
 
-Me gusto el poner a prueba mis capacidades y ver que si puedo con esto, pero no si me disguste un poco porque no logre hacer bien el componente de filtrar y lo que esta dentro de este, funciona correctamente pero para mi no es muy practica la forma en la que hice esa parte, con los demas componentes si estoy satisfecho porque use buenas practicas
+I liked to test my capabilities and see that I can do this, but I am a little upset because I did not manage to do well the filter component and what is inside it, it works correctly but for me it is not very practical the way I did that part, with the other components if I am satisfied because I used good practices.
 
 - What have you learned/improved?
 
-Mejore mi tiempo al hacer estos proyecto y la solucion a unos bugs
+Improved my time by doing these projects and bug fixes.
 
 - Your wisdom? :)
 
-No te des por vencido hasta el final
-
+Don't give up until the end
 
 ### Built With
 
